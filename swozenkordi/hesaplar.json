@@ -1,0 +1,892 @@
+[
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "velena",
+        "koordinatlar": [
+            -25344.0,
+            65.0,
+            15290.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -11166.0,
+            65.0,
+            -27685.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            7575.0,
+            80.0,
+            -22525.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            13325.0,
+            64.0,
+            13962.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -21610.0,
+            80.0,
+            18228.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "pruva",
+        "koordinatlar": [
+            27620.0,
+            69.0,
+            -8400.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            12600.0,
+            75.0,
+            5650.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "flador",
+        "koordinatlar": [
+            4938.0,
+            65.0,
+            -5340.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            -25500.0,
+            71.0,
+            -4587.0
+        ]
+    },
+    {
+        "kullanici_adi": "kordihesabi3",
+        "sifre": "swozenkordi3",
+        "dunya": "astra",
+        "koordinatlar": [
+            3431.0,
+            90.0,
+            26624.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "pruva",
+        "koordinatlar": [
+            2689.0,
+            72.0,
+            -9049.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "velena",
+        "koordinatlar": [
+            -9755.0,
+            66.0,
+            -2836.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            -17682.0,
+            65.0,
+            2298.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "flador",
+        "koordinatlar": [
+            16945.0,
+            68.0,
+            -16000.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -4604.0,
+            70.0,
+            27953.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi1",
+        "sifre": "cesurbaba",
+        "dunya": "astra",
+        "koordinatlar": [
+            15214.0,
+            64.0,
+            14330.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            23673.0,
+            66.0,
+            -9257.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -3877.0,
+            64.0,
+            -17500.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "velena",
+        "koordinatlar": [
+            15036.0,
+            62.0,
+            19396.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "flador",
+        "koordinatlar": [
+            27806.0,
+            62.0,
+            26323.0
+        ]
+    },
+    {
+        "kullanici_adi": "akccar",
+        "sifre": "babababa189",
+        "dunya": "astra",
+        "koordinatlar": [
+            26819.0,
+            62.0,
+            8126.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "sancak",
+        "koordinatlar": [
+            2410.0,
+            68.0,
+            -6859.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -25909.0,
+            65.0,
+            -3605.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            17876.0,
+            66.0,
+            20998.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            13300.0,
+            72.0,
+            -15861.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            22686.0,
+            72.0,
+            -15473.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            8200.0,
+            70.0,
+            -6864.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "pruva",
+        "koordinatlar": [
+            857.0,
+            68.0,
+            -16504.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "pruva",
+        "koordinatlar": [
+            12755.0,
+            70.0,
+            7450.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "velena",
+        "koordinatlar": [
+            11911.0,
+            65.0,
+            21072.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "flador",
+        "koordinatlar": [
+            1606.0,
+            67.0,
+            24701.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "velena",
+        "koordinatlar": [
+            16984.0,
+            73.0,
+            4409.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi69",
+        "sifre": "babababa189",
+        "dunya": "astra",
+        "koordinatlar": [
+            -27920.0,
+            64.0,
+            3019.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "flador",
+        "koordinatlar": [
+            10000.0,
+            86.0,
+            -19505.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordigibi",
+        "sifre": "swozenytkordi",
+        "dunya": "astra",
+        "koordinatlar": [
+            26678.0,
+            70.0,
+            7973.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "sancak",
+        "koordinatlar": [
+            16492.0,
+            69.0,
+            -25006.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -3665.0,
+            73.0,
+            10512.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            3736.0,
+            63.0,
+            9158.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -4553.0,
+            72.0,
+            7904.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -12146.0,
+            69.0,
+            -20600.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "velena",
+        "koordinatlar": [
+            13069.0,
+            75.0,
+            -22088.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "flador",
+        "koordinatlar": [
+            21700.0,
+            63.0,
+            -27528.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi90",
+        "sifre": "swozenytkordi",
+        "dunya": "astra",
+        "koordinatlar": [
+            -14565.0,
+            63.0,
+            20367.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -11050.0,
+            83.0,
+            10585.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            4781.0,
+            64.0,
+            -9100.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordimsi",
+        "sifre": "swozenytkordi",
+        "dunya": "sancak",
+        "koordinatlar": [
+            16325.0,
+            68.0,
+            -9686.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordimsi",
+        "sifre": "swozenytkordi",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -22058.0,
+            75.0,
+            -26075.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            21662.0,
+            70.0,
+            9191.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordimsi",
+        "sifre": "swozenytkordi",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            27845.0,
+            64.0,
+            16070.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordimsi",
+        "sifre": "swozenytkordi",
+        "dunya": "pruva",
+        "koordinatlar": [
+            431.0,
+            65.0,
+            26913.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            20329.0,
+            64.0,
+            -6055.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordimsi",
+        "sifre": "swozenytkordi",
+        "dunya": "velena",
+        "koordinatlar": [
+            -26458.0,
+            63.0,
+            5840.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            -13413.0,
+            75.0,
+            17350.0
+        ]
+    },
+    {
+        "kullanici_adi": "swozenkordi11",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            -5584.0,
+            67.0,
+            23699.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -6666.0,
+            76.0,
+            -3783.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -3182.0,
+            63.0,
+            -14792.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            -370.0,
+            94.0,
+            -18446.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -4771.0,
+            71.0,
+            8078.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -14390.0,
+            64.0,
+            -3441.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            -13798.0,
+            67.0,
+            -19187.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            23840.0,
+            91.0,
+            -13155.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            12067.0,
+            87.0,
+            9228.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi2",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            18877.0,
+            72.0,
+            17771.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            -23416.0,
+            67.0,
+            26400.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            11306.0,
+            64.0,
+            -20610.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            5819.0,
+            66.0,
+            -11003.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            -21551.0,
+            80.0,
+            19482.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -12313.0,
+            70.0,
+            7904.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            -27777.0,
+            68.0,
+            -21110.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi3",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            23000.0,
+            69.0,
+            7588.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            19517.0,
+            84.0,
+            20438.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -24925.0,
+            68.0,
+            -25504.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            -17606.0,
+            74.0,
+            5864.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            26650.0,
+            68.0,
+            -26282.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi4",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            -2930.0,
+            66.0,
+            -3288.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            -12933.0,
+            74.0,
+            3128.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "sancak",
+        "koordinatlar": [
+            1490.0,
+            67.0,
+            16038.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            -19000.0,
+            70.0,
+            12440.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "yakamoz",
+        "koordinatlar": [
+            23300.0,
+            76.0,
+            1430.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            5015.0,
+            68.0,
+            9000.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -26370.0,
+            76.0,
+            25661.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "avrasya",
+        "koordinatlar": [
+            -3575.0,
+            92.0,
+            -8667.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "pruva",
+        "koordinatlar": [
+            -24300.0,
+            63.0,
+            -26000.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            -22940.0,
+            68.0,
+            21254.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "velena",
+        "koordinatlar": [
+            22782.0,
+            63.0,
+            -18514.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            2600.0,
+            98.0,
+            -17400.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "flador",
+        "koordinatlar": [
+            -19464.0,
+            67.0,
+            -27693.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi50",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            27662.0,
+            75.0,
+            7512.0
+        ]
+    },
+    {
+        "kullanici_adi": "cesurkordi6",
+        "sifre": "baba123",
+        "dunya": "astra",
+        "koordinatlar": [
+            22287.0,
+            89.0,
+            -18621.0
+        ]
+    }
+]
